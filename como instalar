@@ -2,6 +2,6 @@ apt update
 apt upgrade
 pkg install git
 pkg install python
-git clone 
-cd 
+git clone https://github.com/root819/InstallProjeto
+cd InstallProjeto
 python main.py
